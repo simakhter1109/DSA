@@ -83,5 +83,5 @@ Learning C++ and building a strong foundation in Data Structures and Algorithms.
 
 ---
 
-⭐ If you're also learning DSA, feel free to explore the repository and follow the journey.
+If you're also learning DSA, feel free to explore the repository and follow the journey.
 
