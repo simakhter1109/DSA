@@ -27,6 +27,15 @@ void printNTo1(int i, int n){
     printNTo1(i - 1, n);
 }
 
+// SUM OF FIRST N NUMBERS
+void sumN (int i, int n, int sum) {
+    if (i > n){
+        cout << sum;
+        return;
+    }
+    sumN (i + 1, n, sum + i);
+}
+
 // MAIN
  int main () {
     int n;
@@ -41,6 +50,9 @@ void printNTo1(int i, int n){
     // PRINT N TO 1
     // printNTo1(n, n);
    
+    // SUM OF FIRST N NUMBERS
+     sumN (1, n ,0);
+
     return 0;
  }
 
