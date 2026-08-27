@@ -13,9 +13,6 @@ I am currently pursuing a B.Tech in Computer Science and Engineering and using t
 * Master C++ fundamentals
 * Build strong problem-solving skills
 * Complete Striver's A2Z DSA Sheet
-* Prepare for coding interviews
-* Secure software engineering internships
-* Crack product-based company interviews
 
 ## Topics Covered
 
@@ -50,8 +47,6 @@ I am currently pursuing a B.Tech in Computer Science and Engineering and using t
 ## Platforms Used
 
 * LeetCode
-* GeeksforGeeks
-* Coding Ninjas
 * Striver's A2Z DSA Sheet
 
 ## Repository Structure
