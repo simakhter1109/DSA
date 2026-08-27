@@ -1,82 +1,25 @@
 # DSA in C++
 
-Welcome to my Data Structures and Algorithms repository.
+A personal repository for learning and practicing **Data Structures and Algorithms in C++**.
 
-## 📌About
+# Topics
 
-This repository documents my journey of learning Data Structures and Algorithms in C++.
-
-I am currently pursuing a B.Tech in Computer Science and Engineering and using this repository to track my progress, practice coding problems, and strengthen my problem-solving skills.
-
-## 🎯Goals
-
-* Master C++ fundamentals
-* Build strong problem-solving skills
-* Complete Striver's A2Z DSA Sheet
-
-## Topics Covered
-
-* C++ Basics
-* Arrays
-* Strings
-* Recursion
-* Searching
-* Sorting
-* Linked Lists
-* Stacks
-* Queues
-* Trees
-* Graphs
-* Dynamic Programming
-
-## 📈 Progress Tracker
-
-* [x] C++ Basics
-* [ ] Arrays
-* [ ] Strings
-* [ ] Recursion
-* [ ] Searching
-* [ ] Sorting
-* [ ] Linked Lists
-* [ ] Stacks
-* [ ] Queues
-* [ ] Trees
-* [ ] Graphs
-* [ ] Dynamic Programming
-
-## Platforms Used
-
-* LeetCode
-* Striver's A2Z DSA Sheet
-
-## Repository Structure
-
-```text
-DSA/
-│
-├── 01-Cpp-Basics/
-├── 02-Arrays/
-├── 03-Strings/
-├── 04-Recursion/
-├── 05-Searching/
-├── 06-Sorting/
-├── 07-LinkedList/
-├── 08-Stack/
-├── 09-Queue/
-├── 10-Trees/
-├── 11-Graphs/
-└── 12-DynamicProgramming/
-```
-
-## Current Focus
-
-Learning C++ and building a strong foundation in Data Structures and Algorithms.
-
-## Motto
-
-"Consistency beats intensity. One problem at a time."
+- 01-C++ Basics
+- 02-Arrays
+- 03-Patterns
+- 04-Number Theory
+- 05-Pointers
+- 06-Recursion
+- 07-Searching
+- 08-Sorting
+- 09-Strings
+- 10-Linked Lists
+- 11-Stack & Queue
+- 12-Trees
+- 13-Graphs
+- 14-Dynamic Programming
 
 ---
 
-If you're also learning DSA, feel free to explore the repository and follow the journey.
-
+**Language:** C++  
+**Focus:** DSA & Problem Solving
